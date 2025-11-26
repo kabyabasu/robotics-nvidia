@@ -1,0 +1,17 @@
+langchain
+langchain_community
+langchain_huggingface
+langchain_groq
+faiss-cpu
+pypdf
+huggingface_hub
+flask==2.2.2
+python-dotenv
+sentence-transformers
+openai
+-e .
+werkzeug==2.2.3
+langchain-classic
+langchain_openai
+llama-cpp-python
+OpenAI
