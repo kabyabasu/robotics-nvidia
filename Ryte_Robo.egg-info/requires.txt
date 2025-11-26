@@ -8,7 +8,6 @@ flask==2.2.2
 python-dotenv
 sentence-transformers
 openai
--e .
 werkzeug==2.2.3
 langchain-classic
 langchain_openai
